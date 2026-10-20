@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Project Blueprints
 
 Reusable documentation templates and coding-agent rules for building software with clear plans, minimal code, and verifiable results.
@@ -45,3 +46,6 @@ For an existing terminal error, start with `workflows/bug-fixing.md`.
 - Keep documentation consistent with the actual implementation.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before changing templates.
+=======
+
+>>>>>>> 9d6fd3961ede143c4363937d78c85dc19a99993e
